@@ -1,5 +1,5 @@
-n = 3 
+n = 4 
 while n < 20:
     n = n * n 
 
-print(f"Number is {n}")
+print(f"Number is a {n}")
